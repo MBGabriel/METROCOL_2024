@@ -7,4 +7,4 @@ Fecha: 2024-11-15
   Anexo 2. Código en R: Estimación de incertidumbre.
   Anexo 2. Código en R: Declaración de Conformidad.
 
-Licencia: Creative Commons.
+Licencia: Creative Commons 
