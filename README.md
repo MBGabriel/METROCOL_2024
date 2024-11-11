@@ -1,6 +1,6 @@
 Corresponde a los anexos del documento presentado en METROCOL 2024 titulado: ESTIMACIÓN DE INCERTIDUMBRE Y DECLARACIÓN DE CONFORMIDAD PARA ACIDEZ TITULABLE EN LECHE CRUDA USANDO R.
 
-Autor: Orlando Gabriel Moraes basante
+Autor: Orlando Gabriel Moraes Basante
 
 ORCID: https://orcid.org/0000-0002-3596-0373
 
